@@ -1,2 +1,2 @@
 # dxw
-study
+some notes about geemap
