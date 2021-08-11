@@ -1,2 +1,2 @@
-# dxw
+# geenote
 some notes about geemap
